@@ -1,0 +1,13 @@
+.navbar .nav-item :hover
+{
+	color: #ffa500 !important;
+	
+
+	
+}
+.navbar .nav-item .dropdown-menu .dropdown-item:hover
+{
+	color: #ff4500 !important;
+	
+	
+}
